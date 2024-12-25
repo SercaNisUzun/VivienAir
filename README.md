@@ -1,12 +1,11 @@
-# VivienAir
-<hr>
-www.vivienair.ru
-<hr>
--At this project i worked with 1 designer. After discuss with client we decided to not use any css library for unique design. I tried to put semantic codes and metatags for basic SEO. 
+<h3>Project Overview</h3>
+In this project, I collaborated with one designer to create a unique, custom design. After discussions with the client, we decided not to use any CSS libraries in order to maintain a distinctive design. I focused on writing semantic HTML code and implementing meta tags to ensure basic SEO optimization.
 
--At the css side, for fast code and improve my skils i prefered SASS and it was good practice about working with separeted css sheets and import them to the main design.
+<h3>CSS Approach</h3>
+For the styling, I chose to work with SASS for its efficiency and flexibility, which allowed me to improve my skills and streamline the CSS code. Using SASS provided valuable experience in managing separate CSS files and importing them into the main stylesheet, contributing to a more organized and maintainable codebase.
 
--For JS side our plan was only mobile menu, lightbox photo galery, accordion menu and filter buttons for photo gallery. After that we added communication info 
-window when user click the lesson prices. I'm still improving my JS skills. Thats why i prefered vanilla JS and i didnt use library. All codes what i write, i sit and think about logic for a long time. :) 
+<h3>JavaScript Development</h3>
+On the JavaScript side, the initial plan was to implement a mobile menu, a lightbox photo gallery, an accordion-style menu, and filter buttons for the gallery. Additionally, I added a communication info window triggered by a click on the lesson prices. I am still actively improving my JavaScript skills, which is why I opted for vanilla JavaScript instead of a library. I spent a considerable amount of time thinking through the logic and structure of the code to ensure its efficiency and clarity.
 
--After desing and code process i did domain and host section too. Right now site is online. It was really educational and good practice.
+<h3>Domain & Hosting</h3>
+Following the design and development phases, I also handled the domain registration and hosting setup. The site is now live and accessible online. This project has been an incredibly educational experience and a great opportunity to practice and refine my skills.
